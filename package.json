@@ -1,0 +1,8 @@
+{
+  "name": "angular-highcharts-directive",
+  "description": "An Angular Js Directive which allows to simplify the use of Highcharts charts",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.x"
+  }
+}
